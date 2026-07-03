@@ -1,0 +1,50 @@
+HOST: Hey everyone, welcome back to the show, I'm rahul.
+GUEST: And I'm harsh, happy to be here.
+HOST: Today we're getting into a few things pulled straight from the source material -- should be a good one.
+GUEST: Yeah, um, I'm looking forward to it.
+
+HOST: So, um, let's get into ML Engineer -- what's the headline here?
+GUEST: Yeah, great question. The short version is that ML Engineer matters more than people think, and the documents really back that up.
+HOST: Hmm, interesting. Can you unpack that a little?
+GUEST: Sure -- basically, when you look at the source material, ML Engineer keeps showing up as a recurring thread, and it connects to a lot of what we already covered.
+HOST: Right, right. That makes sense.
+
+HOST: So, um, let's get into Experienced -- what's the headline here?
+GUEST: Yeah, great question. The short version is that Experienced matters more than people think, and the documents really back that up.
+HOST: Hmm, interesting. Can you unpack that a little?
+GUEST: Sure -- basically, when you look at the source material, Experienced keeps showing up as a recurring thread, and it connects to a lot of what we already covered.
+HOST: Right, right. That makes sense.
+
+HOST: So, um, let's get into ADITI BHARGAVA -- what's the headline here?
+GUEST: Yeah, great question. The short version is that ADITI BHARGAVA matters more than people think, and the documents really back that up.
+HOST: Hmm, interesting. Can you unpack that a little?
+GUEST: Sure -- basically, when you look at the source material, ADITI BHARGAVA keeps showing up as a recurring thread, and it connects to a lot of what we already covered.
+HOST: Right, right. That makes sense.
+
+HOST: So, um, let's get into PROFESSIONAL SUMMARY -- what's the headline here?
+GUEST: Yeah, great question. The short version is that PROFESSIONAL SUMMARY matters more than people think, and the documents really back that up.
+HOST: Hmm, interesting. Can you unpack that a little?
+GUEST: Sure -- basically, when you look at the source material, PROFESSIONAL SUMMARY keeps showing up as a recurring thread, and it connects to a lot of what we already covered.
+HOST: Right, right. That makes sense.
+
+HOST: So, um, let's get into REST APIs -- what's the headline here?
+GUEST: Yeah, great question. The short version is that REST APIs matters more than people think, and the documents really back that up.
+HOST: Hmm, interesting. Can you unpack that a little?
+GUEST: Sure -- basically, when you look at the source material, REST APIs keeps showing up as a recurring thread, and it connects to a lot of what we already covered.
+HOST: Right, right. That makes sense.
+
+HOST: So, um, let's get into Python Developer -- what's the headline here?
+GUEST: Yeah, great question. The short version is that Python Developer matters more than people think, and the documents really back that up.
+HOST: Hmm, interesting. Can you unpack that a little?
+GUEST: Sure -- basically, when you look at the source material, Python Developer keeps showing up as a recurring thread, and it connects to a lot of what we already covered.
+HOST: Right, right. That makes sense.
+
+HOST: So, um, let's get into docker -- what's the headline here?
+GUEST: Yeah, great question. The short version is that docker matters more than people think, and the documents really back that up.
+HOST: Hmm, interesting. Can you unpack that a little?
+GUEST: Sure -- basically, when you look at the source material, docker keeps showing up as a recurring thread, and it connects to a lot of what we already covered.
+HOST: Right, right. That makes sense.
+
+HOST: Well, that about wraps it up for today.
+GUEST: Yeah, this was a great conversation, thanks for having me.
+HOST: Thanks so much, harsh. And thank you all for listening -- see you next time.
