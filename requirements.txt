@@ -1,0 +1,12 @@
+fastapi
+pydantic
+streamlit
+uvicorn
+python-dotenv
+pdfplumber
+python-docx
+chardet
+openai
+anthropic
+google-genai
+groq
